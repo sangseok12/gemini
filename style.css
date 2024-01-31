@@ -1,0 +1,90 @@
+h1{
+        color: black;
+    font-size: 80px;
+}
+p{ 
+    color: black;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h2{
+    color: black;
+}
+body{
+    color: black;
+}
+.st-emotion-cache-1a4rtpv {
+background-color:#FF0000;
+}
+.st-emotion-cache-fd7xna {
+
+color: #FF0000;
+
+}
+.st-emotion-cache-1dgsum0 {
+    display: flex;
+    border: 1px solid rgb(213, 218, 229);
+    background-color: rgb(255, 255, 255);
+    color: rgb(38, 39, 48);
+    line-height: 1;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 1rem;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+  .st-emotion-cache-1ghhuty {
+display: flex;
+width: 2rem;
+height: 2rem;
+flex-shrink: 0;
+border-radius: 0.5rem;
+-webkit-box-align: center;
+align-items: center;
+-webkit-box-pack: center;
+justify-content: center;
+background-color: #272230;
+color: rgb(255, 255, 255);
+}
+.reportview-container {
+    background-color: white;
+}
+.sidebar .sidebar-content {
+    background-color: #DCF8C6; /* 연한 녹색 */
+    color: black;
+}
+.block-container {
+    max-width: 700px;
+    margin: auto;
+    padding-top: 5rem;
+    text-align: center;
+}
+.stTextInput > div > div > input {
+    border: 1px solid #a9a9a9;
+    border-radius: 20px;
+}
+.stButton > button {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.st-emotion-cache-bho8sy {
+    display: flex;
+    width: 2rem;
+    height: 2rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+}
